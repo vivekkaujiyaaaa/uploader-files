@@ -1,4 +1,4 @@
 # uploader-files
-Uploader files with DropzoneJS and list files uploaded
+Upload files with DropzoneJS and list uploaded files.
 
-Project created with DropzoneJS and PHP.
+A simple project made with DropzoneJS and PHP.
